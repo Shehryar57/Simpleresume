@@ -1,0 +1,67 @@
+.{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+nav{
+    background-color: rgba(105, 200, 232, 0.826);
+    height:175px;
+    width: auto;
+    padding: 0px 100px;
+    margin-top: 10px;
+
+}
+.nav-left{
+    float: left;
+    width: 25%;
+    
+}
+.nav-center{
+    margin-top: 10px;
+    width: 50%;
+    float: left;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+.nav-right{
+    float: right;
+    width: 25%;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+img{
+    border-radius: 200px;
+    width: 100px;
+    height: 100px;
+}
+
+ul{
+    color:aqua;
+}
+p.right{
+    width: 50%;
+    float: left;
+    background-color: rgba(189, 191, 194, 0.544);
+    color: black;
+
+}
+p.left{
+    width: 50%;
+    float: right;
+    background-color: rgba(189, 191, 194, 0.544);
+    color: black;
+}
+.complete{
+    width: 100%;
+    background-color: rgba(189, 191, 194, 0.544);
+    color: black;
+}
+.skills{
+    background-color: rgb(47, 179, 63);
+}
